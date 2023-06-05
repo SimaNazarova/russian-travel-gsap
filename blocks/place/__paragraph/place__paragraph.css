@@ -4,6 +4,8 @@
   margin-top: 0;
   margin-bottom: 24px;
   padding-bottom: 0;
+  position: relative;
+  z-index: 0;
 }
 
 .place__paragraph:last-of-type {
@@ -12,13 +14,13 @@
 
 @media all and (max-width: 768px) {
   .place__paragraph {
-      font-size: 16px;
-      line-height: 1.6;
+    font-size: 16px;
+    line-height: 1.6;
   }
 }
 
 @media all and (max-width: 320px) {
   .place__paragraph {
     margin: 0 16px 24px;
-}
+  }
 }
