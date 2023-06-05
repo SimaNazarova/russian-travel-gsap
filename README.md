@@ -1,6 +1,7 @@
 # russian-travel-gsap
 
-Вёрстка лендинга. Первое практическое знакомство с GSAP.
+Вёрстка лендинга. Учебный проект.
+Добавлена анимация с использованием GSAP.
 
 Ссылка
 https://simanazarova.github.io/russian-travel-gsap/
