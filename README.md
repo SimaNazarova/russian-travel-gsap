@@ -1,7 +1,7 @@
 # russian-travel-gsap
 
-Вёрстка лендинга. Учебный проект.
-Добавлена анимация с использованием GSAP.
+Responsive landing page. Study project.
+Added animation with GSAP.
 
-Ссылка
+Link
 https://simanazarova.github.io/russian-travel-gsap/
